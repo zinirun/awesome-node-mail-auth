@@ -1,0 +1,12 @@
+{
+  "name": "awesome-node-mail-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zinirun <zinirun.github.io>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.17",
+    "moment": "^2.24.0"
+  }
+}
